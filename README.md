@@ -13,6 +13,16 @@
 
 ## Books
 
+### PID Controls
+
+- [ ] Introduction to PID Controllers, Astrom.
+
+### Mobile Robot Control
+
+- [ ] Introduction to Mobile Robot Control, Spyros.
+
 ### Vehicle Control and Dynamics
 
-- [ ] 
+
+- [ ] Vehicle Dynamics and Control, Rajamani.
+- [ ] Vehicle Dynamics. Theory and Application, Reza N. Jazar.
