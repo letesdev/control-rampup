@@ -57,7 +57,7 @@
                 "type": "book",
                 "title": "Introduction to PID Controllers",
                 "author": "Astrom",
-                "completed": false,
+                "completed": true,
                 "path": "books/Astrom_Introduction-PID-Controllers_2012.pdf"
             }
         ],
