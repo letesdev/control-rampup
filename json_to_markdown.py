@@ -1,13 +1,6 @@
 import json
 
-def md_format_tutorial(item):
-    title = item.get('title', '')
-    link = item.get('link', '')
-    completed = "[X]" if item.get('completed', False) else "[ ]"
-    path = item.get('path')
-    return f"- {completed} [{title}]({link}) : [{path}]({path})\n" if path else f"- {completed} [{title}]({link})"
-
-def md_format_lecture(item):
+def md_format_tutorial(item): #tutorial, lecture and certification 
     title = item.get('title', '')
     link = item.get('link', '')
     completed = "[X]" if item.get('completed', False) else "[ ]"
@@ -32,10 +25,8 @@ def json_to_markdown(data, level=1):
     elif isinstance(data, list):
         for item in data:
             if isinstance(item, dict):
-                if item.get('type') == "tutorial": 
+                if item.get('type') in ("tutorial", "lecture", "certification"): 
                     md+= md_format_tutorial(item)
-                elif item.get('type') == "lecture": 
-                    md+= md_format_lecture(item)
                 elif item.get('type') == "book": 
                     md+= md_format_book(item)
                 else: 
