@@ -12,8 +12,7 @@ These are the notes I took during my ramp-up (aka skilling-up) of Control Softwa
 ## Control
 
 - [X] [Control Tutorials for MATLAB and Simulink by University of Michigan](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home) : [courses/control-umich/Control-Tutorials_umich.md](courses/control-umich/Control-Tutorials_umich.md)
-- [ ] [Lateral Control Tutorial](https://es.mathworks.com/help/driving/ug/lateral-control-tutorial.html) : []()
-
+- [ ] [Lateral Control Tutorial](https://es.mathworks.com/help/driving/ug/lateral-control-tutorial.html)
 # Lectures
 
 ## Control
