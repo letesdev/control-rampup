@@ -12,7 +12,7 @@ def md_format_lecture(item):
     link = item.get('link', '')
     completed = "[X]" if item.get('completed', False) else "[ ]"
     path = item.get('path')
-    return f"- {completed} [{title}]({link}) : [{path}]({path})\n"
+    return f"- {completed} [{title}]({link}) : [{path}]({path})\n" if path else f"- {completed} [{title}]({link})"
 
 def md_format_book(item):
     title = item.get('title', '')
@@ -64,6 +64,4 @@ with open('README.md', 'w') as file:
     file.write(md_intro)
     file.write(markdown)
     file.close()
-
-
-print("Markdown file has been generated as README.md")
+    print("--> Markdown file has been generated as README.md")

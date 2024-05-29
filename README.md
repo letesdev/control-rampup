@@ -19,8 +19,7 @@ These are the notes I took during my ramp-up (aka skilling-up) of Control Softwa
 ## Control
 
 - [X] [Self-Driving Cars: Control, by Nived Chebrolu](https://www.youtube.com/watch?v=XmjjmnDcduU&t) : [lectures/Nived-Chebrolu/SDC-Bonn_Control_Nived-Chebrolu.md](lectures/Nived-Chebrolu/SDC-Bonn_Control_Nived-Chebrolu.md)
-- [ ] [Self-Driving Cars - Lecture 5.1 to 6.4 (Vehicle Dynamics: Introduction)](https://youtu.be/wuUUN_DvYP4) : []()
-
+- [ ] [Self-Driving Cars - Lecture 5.1 to 6.4 (Vehicle Dynamics: Introduction)](https://youtu.be/wuUUN_DvYP4)
 # Books
 
 ## PID Controllers
