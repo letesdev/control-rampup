@@ -5,7 +5,7 @@ def md_format_tutorial(item):
     link = item.get('link', '')
     completed = "[X]" if item.get('completed', False) else "[ ]"
     path = item.get('path')
-    return f"- {completed} [{title}]({link}) : [{path}]({path})\n"
+    return f"- {completed} [{title}]({link}) : [{path}]({path})\n" if path else f"- {completed} [{title}]({link})"
 
 def md_format_lecture(item):
     title = item.get('title', '')
