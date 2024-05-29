@@ -104,5 +104,16 @@
                 "path": "books/Klabnik_Rust-programming-language_2022.pdf"
             }
         ]
+    }, 
+    "Certifications": {
+        "GIT": [
+            {
+                "type": "certification",
+                "title": "GitHub Certifications",
+                "link": "https://github.blog/2024-01-08-github-certifications-are-generally-available/",
+                "completed": false,
+                "path": ""
+            }
+        ]
     }
 }
