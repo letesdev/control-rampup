@@ -1,0 +1,90 @@
+{
+    "Tutorials": {
+        "Matlab/Simulink": [
+            {
+                "type": "tutorial",
+                "title": "Matlab - Getting started with Simulink",
+                "link": "https://youtube.com/playlist?list=PL484BA2AD3AE4C2D0&feature=shared",
+                "completed": true,
+                "path": "src/matlab/0_simulink-tutorial"
+            }, 
+            {
+                "type": "tutorial",
+                "title": "Matlab - Getting Started With Simulink for Control",
+                "link": "https://es.mathworks.com/matlabcentral/fileexchange/73257-getting-started-with-simulink-for-controls-example-files?s_eid=PSM_15028",
+                "completed": true,
+                "path": "src/matlab/sun-tracking-system"
+            }
+        ],
+        "Control": [
+            {
+                "type": "tutorial",
+                "title": "Control Tutorials for MATLAB and Simulink by University of Michigan",
+                "link": "https://ctms.engin.umich.edu/CTMS/index.php?aux=Home",
+                "completed": true,
+                "path": "courses/control-umich/Control-Tutorials_umich.md"
+            },
+            {
+                "type": "tutorial",
+                "title": "Lateral Control Tutorial",
+                "link": "https://es.mathworks.com/help/driving/ug/lateral-control-tutorial.html",
+                "completed": false,
+                "path": ""
+            }
+        ]
+    },
+    "Lectures": {
+        "Control": [
+            {
+                "type": "lecture",
+                "title": "Self-Driving Cars: Control, by Nived Chebrolu",
+                "link": "https://www.youtube.com/watch?v=XmjjmnDcduU&t",
+                "completed": true,
+                "path": "lectures/Nived-Chebrolu/SDC-Bonn_Control_Nived-Chebrolu.md"
+            },
+            {
+                "type": "lecture",
+                "title": "Self-Driving Cars - Lecture 5.1 to 6.4 (Vehicle Dynamics: Introduction)",
+                "link": "https://youtu.be/wuUUN_DvYP4",
+                "completed": false,
+                "path": ""
+            }
+        ]
+    },
+    "Books": {
+        "PID Controllers": [
+            {
+                "type": "book",
+                "title": "Introduction to PID Controllers",
+                "author": "Astrom",
+                "completed": false,
+                "path": "books/Astrom_Introduction-PID-Controllers_2012.pdf"
+            }
+        ],
+        "Mobile Robot Control": [
+            {
+                "type": "book",
+                "title": "Introduction to Mobile Robot Control",
+                "author": "Spyros",
+                "completed": false, 
+                "path": "books/Spyros_Introduction-Mobile-Robot-Control_2014.pdf"
+            }
+        ],
+        "Vehicle Control and Dynamics": [
+            {
+                "type": "book",
+                "title": "Vehicle Dynamics and Control",
+                "author": "Rajamani",
+                "completed": false, 
+                "path": "books/Rajamani_Vehicle-Dynamics-and-Control_2012.pdf"
+            },
+            {
+                "type": "book",
+                "title": "Vehicle Dynamics. Theory and Application",
+                "author": "Reza N. Jazar",
+                "completed": false,
+                "path": "books/Jazar_Vehicle-Dynamics_2008.pdf"
+            }
+        ]
+    }
+}
