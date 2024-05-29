@@ -31,6 +31,15 @@
                 "completed": false,
                 "path": ""
             }
+        ], 
+        "Rust": [
+            {
+                "type": "tutorial",
+                "title": "Comprehensive Rust by Google", 
+                "link": "https://google.github.io/comprehensive-rust/es/",
+                "completed": false, 
+                "path": ""
+            }
         ]
     },
     "Lectures": {
@@ -84,6 +93,15 @@
                 "author": "Reza N. Jazar",
                 "completed": false,
                 "path": "books/Jazar_Vehicle-Dynamics_2008.pdf"
+            }
+        ], 
+        "Rust": [
+            {
+                "type": "book",
+                "title": "The Rust Programming Language",
+                "author": "Steve Klabnik",
+                "completed": false, 
+                "path": "books/Klabnik_Rust-programming-language_2022.pdf"
             }
         ]
     }

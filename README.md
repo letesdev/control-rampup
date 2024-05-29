@@ -13,6 +13,9 @@ These are the notes I took during my ramp-up (aka skilling-up) of Control Softwa
 
 - [X] [Control Tutorials for MATLAB and Simulink by University of Michigan](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home) : [courses/control-umich/Control-Tutorials_umich.md](courses/control-umich/Control-Tutorials_umich.md)
 - [ ] [Lateral Control Tutorial](https://es.mathworks.com/help/driving/ug/lateral-control-tutorial.html)
+## Rust
+
+- [ ] [Comprehensive Rust by Google](https://google.github.io/comprehensive-rust/es/)
 # Lectures
 
 ## Control
@@ -33,4 +36,8 @@ These are the notes I took during my ramp-up (aka skilling-up) of Control Softwa
 
 - [ ] _Vehicle Dynamics and Control_, by Rajamani : [books/Rajamani_Vehicle-Dynamics-and-Control_2012.pdf](books/Rajamani_Vehicle-Dynamics-and-Control_2012.pdf)
 - [ ] _Vehicle Dynamics. Theory and Application_, by Reza N. Jazar : [books/Jazar_Vehicle-Dynamics_2008.pdf](books/Jazar_Vehicle-Dynamics_2008.pdf)
+
+## Rust
+
+- [ ] _The Rust Programming Language_, by Steve Klabnik : [books/Klabnik_Rust-programming-language_2022.pdf](books/Klabnik_Rust-programming-language_2022.pdf)
 
