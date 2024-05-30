@@ -3,7 +3,7 @@ name: Convert JSON to Markdown
 on:
   push:
     paths:
-      - 'structure.json'
+      - 'content.json'
 
 jobs:
   build:

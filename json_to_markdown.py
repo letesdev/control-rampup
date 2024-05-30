@@ -40,7 +40,7 @@ def json_to_markdown(data, level=1):
     return md
 
 # Load JSON data from a file
-with open('structure.json', 'r') as file:
+with open('content.json', 'r') as file:
     data = json.load(file)
 
 # Convert JSON to Markdown
