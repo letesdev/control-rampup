@@ -48,7 +48,7 @@ with open('content.json', 'r') as file:
 markdown = json_to_markdown(data)
 
 # Save Markdown to a file
-with open('README_template.md') as template:
+with open('assets/README_template.md') as template:
     md_intro = template.read()
     template.close()
 
