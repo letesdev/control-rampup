@@ -2,7 +2,20 @@
 
 These are the notes I took during my ramp-up (aka skilling-up) of Control Software Development. 
 
-This README file is automatically generated in GitHub Actions using `json_to_markdown.py` script and `README_template.md` template. 
+
+
+## Usage
+
+<details>
+<summary>
+Automatic README file generation from `json` file with `Python`
+</summary>
+
+- You should only edit the `content.json` file.
+- This README file is automatically generated in GitHub Actions using `json_to_markdown.py` script and `README_template.md` template. 
+- You can also run `python json_to_markdown.py` directly in your computer. 
+
+</details>
 
 # Tutorials
 
@@ -41,10 +54,13 @@ This README file is automatically generated in GitHub Actions using `json_to_mar
 
 ## Rust
 
-- [ ] _The Rust Programming Language_, by Steve Klabnik : [books/Klabnik_Rust-programming-language_2022.pdf](books/Klabnik_Rust-programming-language_2022.pdf)
+- [ ] [_The Rust Programming Language_](https://doc.rust-lang.org/book/), by Steve Klabnik : [books/Klabnik_Rust-programming-language_2022.pdf](books/Klabnik_Rust-programming-language_2022.pdf)
 
 # Certifications
 
 ## GIT
 
 - [ ] [GitHub Certifications](https://github.blog/2024-01-08-github-certifications-are-generally-available/)
+## Rust
+
+- [ ] [Microsoft - Primeros pasos con Rust](https://learn.microsoft.com/es-es/training/paths/rust-first-steps/)
