@@ -10,9 +10,10 @@ def md_format_tutorial(item): #tutorial, lecture and certification
 def md_format_book(item):
     title = item.get('title', '')
     author = item.get('author', '')
+    link = item.get('link', '')
     completed = "[X]" if item.get('completed', False) else "[ ]"
     path = item.get('path')
-    return f"- {completed} _{title}_, by {author} : [{path}]({path})\n"
+    return f"- {completed} [_{title}_]({link}), by {author} : [{path}]({path})\n" if link else f"- {completed} _{title}_, by {author} : [{path}]({path})\n"
 
 def json_to_markdown(data, level=1):
     md = ""
