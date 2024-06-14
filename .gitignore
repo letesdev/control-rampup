@@ -207,3 +207,8 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,matlab
+
+
+
+# Specific to control-rampup
+README.md
