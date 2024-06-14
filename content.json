@@ -99,6 +99,7 @@
             {
                 "type": "book",
                 "title": "The Rust Programming Language",
+                "link": "https://doc.rust-lang.org/book/",
                 "author": "Steve Klabnik",
                 "completed": false, 
                 "path": "books/Klabnik_Rust-programming-language_2022.pdf"
@@ -111,6 +112,15 @@
                 "type": "certification",
                 "title": "GitHub Certifications",
                 "link": "https://github.blog/2024-01-08-github-certifications-are-generally-available/",
+                "completed": false,
+                "path": ""
+            }
+        ], 
+        "Rust":[
+            {
+                "type": "certification",
+                "title": "Microsoft - Primeros pasos con Rust",
+                "link": "https://learn.microsoft.com/es-es/training/paths/rust-first-steps/",
                 "completed": false,
                 "path": ""
             }
