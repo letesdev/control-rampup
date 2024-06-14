@@ -41,3 +41,8 @@ These are the notes I took during my ramp-up (aka skilling-up) of Control Softwa
 
 - [ ] _The Rust Programming Language_, by Steve Klabnik : [books/Klabnik_Rust-programming-language_2022.pdf](books/Klabnik_Rust-programming-language_2022.pdf)
 
+# Certifications
+
+## GIT
+
+- [ ] [GitHub Certifications](https://github.blog/2024-01-08-github-certifications-are-generally-available/)
